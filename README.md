@@ -28,7 +28,7 @@ YOLO (You Only Look Once) is a popular real-time object detection system that ca
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/yolo-image-detection.git
+git clone https://github.com/Francsco99/pcb_detection.git
 ```
 2. Navigate to the project directory:
 
@@ -67,37 +67,3 @@ python app.py
 You can view processed images in the gallery by visiting the `/gallery` route.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/my-feature`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to your forked repository: `git push origin feature/my-feature`.
-5. Open a pull request on the original repository.
-
-Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md).
-
-## Support
-
-If you encounter any issues or have questions, please open a [GitHub Issue](https://github.com/your-username/yolo-image-detection/issues) for assistance.
-
-## Roadmap
-
-Check the [project roadmap](ROADMAP.md) to see planned features and updates.
-
-## Acknowledgments
-
-We would like to thank the YOLO and Flask communities for their contributions and support.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note**: This README is a template. Please customize it according to your project's needs.
-
-
