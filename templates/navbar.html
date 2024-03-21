@@ -3,25 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .navbar {
-            background-color: #007bff;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-
-        .navbar a {
-            text-decoration: none;
-            color: #fff;
-            margin: 0 20px;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/navbar_style.css') }}">
 </head>
 <body>
     <div class="navbar">
-        <a href="/">Carica un'immagine</a>
-        <a href="/gallery">Galleria Immagini</a>
+        <a href="/">Upload an image</a>
+        <a href="/gallery">Image gallery</a>
     </div>
+
 </body>
 </html>
